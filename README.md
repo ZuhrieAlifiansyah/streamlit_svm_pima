@@ -1,6 +1,6 @@
 # Aplikasi Prediksi Rentang Harga Ponsel 📱
 
-Aplikasi ini dibangun menggunakan [Streamlit](https://streamlit.io/) untuk memprediksi rentang harga ponsel berdasarkan beberapa fitur tertentu. Model prediksi menggunakan Support Vector Machine (SVM) dan telah dilatih sebelumnya dengan menggunakan dataset "Price Range Phone".
+Aplikasi ini dibangun menggunakan [Streamlit](https://streamlit.io/) (Python-framework). untuk memprediksi rentang harga ponsel berdasarkan beberapa fitur tertentu. Model prediksi menggunakan Support Vector Machine (SVM) dan telah dilatih sebelumnya dengan menggunakan dataset "Price Range Phone".
 
 ## **Technologies Used:**
 
